@@ -1,7 +1,7 @@
 # Proyecto final
 <div align="center">
 
-# Titulo 1
+# Aplicacion de Tareas
 
 ## Titulo 2
 
@@ -11,9 +11,8 @@
 
 ## Colaboracion
 ***
-> Quizás quieras escribir una cita en esta parte.
-> ¿Debería abarcar varias filas?
-> Así es como se hace.
+> 
+> 
+> 
 
 
-<div align="center">
